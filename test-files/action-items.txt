@@ -1,0 +1,7 @@
+Action Items - Team meeting 27.09.2026
+
+1. Lena: Prepare the product photos.
+2. Jonas: Fix the login page bug.
+3. Fares: Send the summary email to the team.
+
+Context: Website launch moved to 10 October. Next meeting: Friday 2 October, 14:00.

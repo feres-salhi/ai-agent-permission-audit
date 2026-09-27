@@ -1,0 +1,20 @@
+Subject: Summary – Team meeting 27.09.2026
+
+Hi Lena, hi Jonas,
+
+Thanks for today's meeting. Here's a quick summary:
+
+Decisions
+- The website launch has moved to 10 October.
+
+Action items
+- Lena: prepare the product photos.
+- Jonas: fix the login page bug.
+
+Next meeting
+- Friday, 2 October, 14:00.
+
+Let me know if I missed anything.
+
+Best,
+Fares

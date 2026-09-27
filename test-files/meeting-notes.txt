@@ -1,0 +1,9 @@
+Team meeting  27.09.2026
+Attendees: Fares, Lena, Jonas
+
+- Website launch moved to 10 October
+- Lena will prepare the product photos
+- Jonas needs to fix the login page bug
+- Next meeting: Friday 2 October, 14:00
+
+Action item: Fares sends the summary email to the team.
