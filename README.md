@@ -145,4 +145,4 @@ ai-agent-permission-audit/
 
 *All tests ran on my own machine against my own account, using fake data only. The goal is to understand how agent permissions behave so they can be used and designed more safely.*
 
-**Author:** Fares Salhi · Computer Science, TU Darmstadt · [LinkedIn](https://www.linkedin.com/in/fares-salhi-03b53530a) · [Portfolio](https://magic-portfolio-for-next-js-one-fawn.vercel.app/)
+**Author:** Fares Salhi · Computer Science, TU Darmstadt · [LinkedIn](https://www.linkedin.com/in/fares-salhi-03b53530a) · [Portfolio](https://faressalhi.com)
